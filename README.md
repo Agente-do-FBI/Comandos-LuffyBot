@@ -1,1 +1,3 @@
-# Comandos-LuffyBot
+ · Comandos LuffyBot
+
+· -Help
